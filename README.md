@@ -3,7 +3,7 @@ Repositori untuk pengumpulan Tugas Praktikum Asistensi Group 02 Pemrograman Mobi
 
 ## Aturan Pengumpulan
 **Note:**  
-_Untuk perintah yang dibungkus < > maka perintah tersebut diganti sesuai instruksi yang ada dalam tanda < > tersebut. Contohnya `mkdir <NIM>` menjadi `mkdir H071191016`_
+_Untuk perintah yang dibungkus < > maka perintah tersebut diganti sesuai instruksi yang ada dalam tanda < > tersebut. Contohnya `mkdir <NIM>` menjadi `mkdir H071201021`_
 - Silahkan fork repositori ini
 - Lakukan clone terhadap hasil fork repository ini ke komputer kalian
   ```
