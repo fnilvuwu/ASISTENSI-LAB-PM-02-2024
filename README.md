@@ -19,7 +19,7 @@ _Untuk perintah yang dibungkus < > maka perintah tersebut diganti sesuai instruk
 - Di dalam folder pertemuan tersebut, kalian menambahkan file tugas praktikum yang telah kalian kerjakan dengan melakukan export .zip di android studio format nama file "assignment_<_no pertemuan_>.zip" tanpa tanda kutip
 - Setelah semua file tugas telah diselesaikan dan telah diasistensikan lakukan perintah berikut
 - **Jangan lupa sync direpository kalian sebelum melakukan push**
-![Sync fork](sync-fork)
+![Sync fork](sync-fork.jpeg)
   ```
   git add .
   git commit -m "<pesan commit>"
