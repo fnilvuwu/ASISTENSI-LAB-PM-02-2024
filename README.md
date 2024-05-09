@@ -17,7 +17,10 @@ _Untuk perintah yang dibungkus < > maka perintah tersebut diganti sesuai instruk
   
 - Di dalam folder NIM kalian buat folder dengan nama "Pertemuan-<_no_pertemuan_>" tanpa tanda kutip. contoh: Pertemuan-1
 - Di dalam folder pertemuan tersebut, kalian menambahkan file tugas praktikum yang telah kalian kerjakan dengan melakukan export .zip di android studio format nama file "assignment_<_no pertemuan_>.zip" tanpa tanda kutip
-![Export zip](export_zip_android_studio.png)
+<p align="center" width="100%">
+    <img width="75%" src="export_zip_android_studio.png">
+</p>
+
 - Setelah semua file tugas telah diselesaikan dan telah diasistensikan lakukan perintah berikut
 - **Jangan lupa sync direpository kalian sebelum melakukan push**
 ![Sync fork](sync-fork.jpeg)
